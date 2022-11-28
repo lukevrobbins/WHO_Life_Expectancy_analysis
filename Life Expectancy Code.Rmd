@@ -1,7 +1,7 @@
 ---
-title: "Final Code"
-author: "Luke Robbins"
-date: "5/11/2021"
+title: "Final Project "
+author: "Student name"
+date: "12/11/2022"
 output: pdf_document
 editor_options: 
   chunk_output_type: console
